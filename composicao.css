@@ -1,1 +1,23 @@
- 
+.bloco1 {
+    width: 30%; /* Largura da coluna 1 */
+    float: left; /* Para que as colunas fiquem lado a lado */
+    padding: 10px;
+    background-color: #f4aa0d; /* Cor de fundo da coluna 1 */
+    border: 1px solid #ccc; /* Borda da coluna 1 */
+}
+
+.bloco2 {
+    width: 500px; /* Largura da coluna 2 */
+    float: left; /* Para que as colunas fiquem lado a lado */
+    padding: 10px;
+    background-color: #08b547; /* Cor de fundo da coluna 2 */
+    border: 1px solid #b3d9ff; /* Borda da coluna 2 */
+}
+
+.bloco3 {
+    width: 30%; /* Largura da coluna 3 */
+    float: left; /* Para que as colunas fiquem lado a lado */
+    padding: 10px;
+    background-color: #cf0c0c; /* Cor de fundo da coluna 3 */
+    border: 1px solid #ffaa80; /* Borda da coluna 3 */
+}  
